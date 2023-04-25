@@ -12,8 +12,8 @@ void Metod2(string msg)
 
 Metod2(msg: "Text messeng");
 
-void Metod_21 (string msg, int count);
-
+void Metod_21 (string msg, int count = 10)
+{
 int i =0;
     while (i < count)
     {
@@ -21,7 +21,7 @@ int i =0;
         i ++;
     }
 Metod_21(msg:"Text", count: 4);
-
+}
 
 int Metod3()
 {
@@ -31,7 +31,7 @@ int Metod3()
 int yaer = Metod3();
 Console.WriteLine(yaer);
 
-string Metod4(int count, string c);
+string Metod4(int count, string c)
 {
     int i = 0;
     string result = String.Empty;

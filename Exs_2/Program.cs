@@ -1,9 +1,9 @@
-﻿string Metod5(int count, string c);
+﻿string Metod5(int count, string c)
 {
     
     string result = String.Empty;
 
-    for (int i = 0; i < count; i++);
+    for (int i = 0; i < count; i++)
     {
         result = result + c;
     }
