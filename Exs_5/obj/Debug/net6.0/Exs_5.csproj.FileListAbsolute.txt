@@ -1,0 +1,15 @@
+E:\лекция3\Exs_5\bin\Debug\net6.0\Exs_5.exe
+E:\лекция3\Exs_5\bin\Debug\net6.0\Exs_5.deps.json
+E:\лекция3\Exs_5\bin\Debug\net6.0\Exs_5.runtimeconfig.json
+E:\лекция3\Exs_5\bin\Debug\net6.0\Exs_5.dll
+E:\лекция3\Exs_5\bin\Debug\net6.0\Exs_5.pdb
+E:\лекция3\Exs_5\obj\Debug\net6.0\Exs_5.csproj.AssemblyReference.cache
+E:\лекция3\Exs_5\obj\Debug\net6.0\Exs_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\лекция3\Exs_5\obj\Debug\net6.0\Exs_5.AssemblyInfoInputs.cache
+E:\лекция3\Exs_5\obj\Debug\net6.0\Exs_5.AssemblyInfo.cs
+E:\лекция3\Exs_5\obj\Debug\net6.0\Exs_5.csproj.CoreCompileInputs.cache
+E:\лекция3\Exs_5\obj\Debug\net6.0\Exs_5.dll
+E:\лекция3\Exs_5\obj\Debug\net6.0\refint\Exs_5.dll
+E:\лекция3\Exs_5\obj\Debug\net6.0\Exs_5.pdb
+E:\лекция3\Exs_5\obj\Debug\net6.0\Exs_5.genruntimeconfig.cache
+E:\лекция3\Exs_5\obj\Debug\net6.0\ref\Exs_5.dll
